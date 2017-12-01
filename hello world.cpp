@@ -4,7 +4,6 @@ using namespace std;
 int main()
 {
   cout<<"hello world!"<<endl;
-  cout<<"i modify code!"<<endl;
-  cout<<"i am dev branch!"<<endl;
+  cout<<"new branch!"<<endl;
   return 0;
 }
